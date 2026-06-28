@@ -8,6 +8,9 @@
 
 <br/>
 
+<!-- ═══════════════════════════ VISITOR BADGE ════════════════════════════ -->
+<img src="https://komarev.com/ghpvc/?username=linhtnt-dev&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter"/>
+
 </div>
 
 <br/>
@@ -82,7 +85,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=linhtnt-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="Linh's GitHub Trophy Cabinet"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linhtnt-dev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Linh's GitHub Activity Graph"/>
 
 <br/>
 
